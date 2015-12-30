@@ -28,7 +28,7 @@ Alberto Sabater Bailón | 546297
 Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory-6-microservices) | Transform into node.js and eureka
 Alejandro Solanas Bonilla | 647647 | [repo](https://github.com/Naxsel/Laboratory-6-microservices)
 Christian García Artero | 597578
-Luis Jesus Pellicer | 520256
+Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-6-microservices)
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
