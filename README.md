@@ -12,7 +12,7 @@ Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/Laboratory-6-micro
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-6-microservices)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-6-microservices)
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-6-microservices)
-David Nicuesa Aranda | 653224
+David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-6-microservices)
 Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/Laboratory-6-microservices)
 Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-6-microservices)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-6-microservices)
