@@ -29,7 +29,7 @@ Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory
 Alejandro Solanas Bonilla | 647647 | [repo](https://github.com/Naxsel/Laboratory-6-microservices)
 Christian García Artero | 597578
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-6-microservices)
-Marcos Ruiz García | 648045
+Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-6-microservices)
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo] (https://github.com/diegozgz92/Laboratory-6-microservices)
