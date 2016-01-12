@@ -3,13 +3,15 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laborato
 
 ## The two microservices are running and registered
 ![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/port_2222.png)
+
 ![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/port_3333.png)
 
 ## The service registration service has the two microservices registered
+![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/registration.png)
+
 ![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/dashboard.png)
 
 ## A second account microservice is running in the port 4444 and it is registered
-![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/registration.png)
 ![](https://github.com/oscarmeler/Laboratory-6-microservices/blob/master/screenshots/port_4444.png)
 
 ## A brief report describing what happens when you kill the microservice with port 2222
