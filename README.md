@@ -17,4 +17,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laborato
 ## A brief report describing what happens when you kill the microservice with port 2222
 After you kill the microservice with port 2222, if you try to do an operation, first shows a "Refused connection" message error. A few seconds later, you can see "No instances available for ACCOUNTS-SERVICE". 
 
-After a little time the web service shows the other account service running in the 4444.
+After a little time the web service shows the other account service running in the port 4444.
