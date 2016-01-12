@@ -30,7 +30,7 @@ Alejandro Solanas Bonilla | 647647 | [repo](https://github.com/Naxsel/Laboratory
 Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/Laboratory-6-microservices)
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-6-microservices)
 Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-6-microservices)
-Óscar Meler Murillo | 608919
+Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/Laboratory-6-microservices)
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo] (https://github.com/diegozgz92/Laboratory-6-microservices)
 Rubén Gabás Celimendiz | 590738
